@@ -35,7 +35,7 @@ This project focuses on analyzing coffee sales performance using Power BI. The d
 
 ### Visualizations
 - Sales Trend by Year (Line Chart)
-- Sales by State (Column Chart)
+- Sales by State (Bar Chart)
 - Sales by Product Line (Bar Chart)
 - Profit by Product Type (Bar Chart)
 - Market Size Contribution (Donut Chart)
